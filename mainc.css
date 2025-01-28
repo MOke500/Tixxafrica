@@ -1,0 +1,27 @@
+body{
+
+    background-color: black;
+  font-family: "Times New Roman", Times, serif;
+
+    color: yellow;
+    border-bottom-color: yellow;
+}
+body {
+    background-image: url('event/tree.jpg');
+    width: 5363px;
+    height: 3575px;
+    /* Replace 'path/to/your/image.jpg' with the actual path to your image */
+    background-size:'100% 100%';
+    /* Adjust background-size as needed:
+       * 'cover': Resizes the image to cover the entire screen
+       * 'contain': Resizes the image to fit within the screen
+       * '100% 100%': Sets the image size to 100% of the screen width and height */
+    background-position: center center;
+
+}
+
+body h1, h2, h3, h4, h5, h6, {
+    font-weight: bold;
+}
+
+
